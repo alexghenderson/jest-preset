@@ -1,0 +1,19 @@
+{
+  "name": "@alexghenderson/jest-preset",
+  "version": "1.0.2",
+  "description": "",
+  "main": "jest-preset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-runner-eslint": "^0.7.3"
+  },
+  "peerDependencies": {
+    "jest": "^24.0.0",
+    "babel-jest": "^24.0.0",
+    "eslint": "^5.0.0"
+  }
+}
